@@ -1,0 +1,4 @@
+X:\Visual Projects\Курсовая\Release\Курсовая.MainForm.resources
+X:\Visual Projects\Курсовая\Release\Курсовая.Result.resources
+X:\Visual Projects\Курсовая\Release\Курсовая.vcxproj.GenerateResource.cache
+X:\Visual Projects\Курсовая\Release\Курсовая.exe

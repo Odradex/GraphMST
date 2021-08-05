@@ -1,0 +1,6 @@
+X:\Visual Projects\Курсовая\Debug\Курсовая.MainForm.resources
+X:\Visual Projects\Курсовая\Debug\Курсовая.vcxproj.GenerateResource.cache
+X:\Visual Projects\Курсовая\Debug\Курсовая.exe
+X:\Visual Projects\Курсовая\Debug\Курсовая.pdb
+X:\Visual Projects\Курсовая\Debug\Курсовая.vcxprojAssemblyReference.cache
+X:\Visual Projects\Курсовая\Debug\Курсовая.Result.resources

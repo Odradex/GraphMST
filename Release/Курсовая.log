@@ -1,0 +1,30 @@
+﻿  MainForm.cpp
+X:\Visual Projects\Курсовая\graph.h(101,156): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+X:\Visual Projects\Курсовая\graph.h(101,103): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+X:\Visual Projects\Курсовая\graph.h(106,73): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+X:\Visual Projects\Курсовая\graph.h(106,48): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+X:\Visual Projects\Курсовая\graph.h(107,100): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+X:\Visual Projects\Курсовая\graph.h(107,77): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+X:\Visual Projects\Курсовая\graph.h(122,21): warning C4018: <: несоответствие типов со знаком и без знака
+X:\Visual Projects\Курсовая\graph.h(143,24): warning C4018: <: несоответствие типов со знаком и без знака
+X:\Visual Projects\Курсовая\graph.h(157,1): warning C4554: "^": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+X:\Visual Projects\Курсовая\graph.h(180,22): warning C4018: <: несоответствие типов со знаком и без знака
+X:\Visual Projects\Курсовая\graph.h(232,24): warning C4018: <: несоответствие типов со знаком и без знака
+X:\Visual Projects\Курсовая\graph.h(241,23): warning C4018: <: несоответствие типов со знаком и без знака
+  Result.cpp
+X:\Visual Projects\Курсовая\Graph.h(101,156): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+X:\Visual Projects\Курсовая\Graph.h(101,103): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+X:\Visual Projects\Курсовая\Graph.h(106,73): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+X:\Visual Projects\Курсовая\Graph.h(106,48): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+X:\Visual Projects\Курсовая\Graph.h(107,100): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+X:\Visual Projects\Курсовая\Graph.h(107,77): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+X:\Visual Projects\Курсовая\Graph.h(122,21): warning C4018: <: несоответствие типов со знаком и без знака
+X:\Visual Projects\Курсовая\Graph.h(143,24): warning C4018: <: несоответствие типов со знаком и без знака
+X:\Visual Projects\Курсовая\Graph.h(157,1): warning C4554: "^": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+X:\Visual Projects\Курсовая\Graph.h(180,22): warning C4018: <: несоответствие типов со знаком и без знака
+X:\Visual Projects\Курсовая\Graph.h(232,24): warning C4018: <: несоответствие типов со знаком и без знака
+X:\Visual Projects\Курсовая\Graph.h(241,23): warning C4018: <: несоответствие типов со знаком и без знака
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Создание кода...
+  MainForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Курсовая.vcxproj -> X:\Visual Projects\Курсовая\Release\Курсовая.exe

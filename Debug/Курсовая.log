@@ -1,0 +1,28 @@
+﻿  Graph.cpp
+X:\Visual Projects\Курсовая\Graph.cpp(12,23): warning C4018: <: несоответствие типов со знаком и без знака
+X:\Visual Projects\Курсовая\Graph.cpp(13,24): warning C4018: <: несоответствие типов со знаком и без знака
+X:\Visual Projects\Курсовая\Graph.cpp(53,23): warning C4018: <: несоответствие типов со знаком и без знака
+X:\Visual Projects\Курсовая\Graph.cpp(57,23): warning C4018: <: несоответствие типов со знаком и без знака
+X:\Visual Projects\Курсовая\Graph.cpp(62,72): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+X:\Visual Projects\Курсовая\Graph.cpp(62,47): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+X:\Visual Projects\Курсовая\Graph.cpp(63,80): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+X:\Visual Projects\Курсовая\Graph.cpp(63,57): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+X:\Visual Projects\Курсовая\Graph.cpp(79,20): warning C4018: <: несоответствие типов со знаком и без знака
+X:\Visual Projects\Курсовая\Graph.cpp(128,23): warning C4018: <: несоответствие типов со знаком и без знака
+X:\Visual Projects\Курсовая\Graph.cpp(130,24): warning C4018: <: несоответствие типов со знаком и без знака
+X:\Visual Projects\Курсовая\Graph.cpp(151,25): warning C4018: <: несоответствие типов со знаком и без знака
+X:\Visual Projects\Курсовая\Graph.cpp(154,26): warning C4018: <: несоответствие типов со знаком и без знака
+X:\Visual Projects\Курсовая\Graph.cpp(157,25): warning C4018: <: несоответствие типов со знаком и без знака
+X:\Visual Projects\Курсовая\Graph.cpp(159,26): warning C4018: <: несоответствие типов со знаком и без знака
+X:\Visual Projects\Курсовая\Graph.cpp(171,25): warning C4018: <: несоответствие типов со знаком и без знака
+X:\Visual Projects\Курсовая\Graph.cpp(194,23): warning C4018: <: несоответствие типов со знаком и без знака
+X:\Visual Projects\Курсовая\Graph.cpp(214,6): warning C4554: "^": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+X:\Visual Projects\Курсовая\Graph.cpp(233,23): warning C4018: <: несоответствие типов со знаком и без знака
+X:\Visual Projects\Курсовая\Graph.cpp(238,21): warning C4018: <: несоответствие типов со знаком и без знака
+X:\Visual Projects\Курсовая\Graph.cpp(293,23): warning C4018: <: несоответствие типов со знаком и без знака
+X:\Visual Projects\Курсовая\Graph.cpp(300,21): warning C4018: <: несоответствие типов со знаком и без знака
+  MainForm.cpp
+  Result.cpp
+  Создание кода...
+  Graph.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Курсовая.vcxproj -> X:\Visual Projects\Курсовая\Debug\Курсовая.exe

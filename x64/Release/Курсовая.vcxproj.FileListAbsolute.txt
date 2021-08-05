@@ -1,0 +1,5 @@
+X:\Visual Projects\Курсовая\x64\Release\Курсовая.MainForm.resources
+X:\Visual Projects\Курсовая\x64\Release\Курсовая.Result.resources
+X:\Visual Projects\Курсовая\x64\Release\Курсовая.vcxproj.GenerateResource.cache
+X:\Visual Projects\Курсовая\x64\Release\Курсовая.vcxprojAssemblyReference.cache
+X:\Visual Projects\Курсовая\x64\Release\Graph MST.exe
